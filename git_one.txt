@@ -1,2 +1,5 @@
 print("Hello world")
 print()
+a=3
+b=3
+c=4
